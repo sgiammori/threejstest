@@ -18,4 +18,18 @@
  * FOR A PARTICULAR PURPOSE. See theGNU General Public License
  * (http://www.gnu.org/licenses/gpl.txt) for more details.
  *
+*/
+
+ /**
+  * @file Defines the functions to manage and install plugins
+  * @author Stefano Giammori
  */
+
+ /**
+  * MyLib namespace
+  * @author Stefano Giammori
+ */
+
+var MyLib = {
+    VERSION: "1.0"
+};
